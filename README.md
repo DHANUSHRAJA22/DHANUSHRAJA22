@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 ---
 
 ## 🔍 Current Interests
-
-<img align="right" alt="Coding" width="340" height="auto" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<p align="center">
+  <img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+</p>
 
 - Machine Learning & AI  
 - Web Development  
@@ -22,34 +23,53 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="./python-logo.svg" alt="Python" width="80" height="80"/>
-  <img src="./javascript-logo.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="./react-logo.svg" alt="React" width="80" height="80"/>
-  <img src="./nodejs-logo.svg" alt="Node.js" width="80" height="80"/>
-  <img src="./html5-logo.svg" alt="HTML5" width="80" height="80"/>
-  <img src="./css3-logo.svg" alt="CSS3" width="80" height="80"/>
+  <img src="./python-logo.svg" alt="Python" width="60" height="60"/>
+  <img src="./javascript-logo.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="./html-logo.svg" alt="HTML5" width="60" height="60"/>
+  <img src="./css-logo.svg" alt="CSS3" width="60" height="60"/>
+  <img src="./react-logo.svg" alt="React" width="60" height="60"/>
+</p>
+<p align="center">
+  <img src="./sql-logo.svg" alt="SQL" width="60" height="60"/>
+  <img src="./java-logo.svg" alt="Java" width="60" height="60"/>
+  <img src="./cpp-logo.svg" alt="C++" width="60" height="60"/>
+  <img src="./sklearn-logo.svg" alt="Scikit-learn" width="60" height="60"/>
+  <img src="./tensorflow-logo.svg" alt="TensorFlow" width="60" height="60"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+### 🔹 Machine Learning
+- Data Analysis & Visualization  
+- Scikit-learn, Pandas, NumPy  
+- TensorFlow/Keras basics  
+- Statistical Analysis  
 
 ---
 
-## 🤝 Connect with Me
+## 🌱 What I'm Currently Learning
+- Advanced Machine Learning techniques  
+- Cloud Computing (AWS, Azure)  
+- DevOps practices  
+- Advanced Web Frameworks  
+
+---
+
+## 🤝 Let's Connect!
+I'm always interested in collaborating on interesting projects and learning from fellow developers.  
+
+📧 **Email:** rdhanush22raja@gmail.com  
+🌐 **Portfolio:** [dhanush-visions.vercel.app](https://dhanush-visions.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/dhanush-raja-559a241aa](https://www.linkedin.com/in/dhanush-raja-559a241aa/)  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:dhanushraj@example.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/dhanushraja">💼 LinkedIn</a> •
-  <a href="https://twitter.com/dhanushraja">🐦 Twitter</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ---
 
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</div>
+✨ Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about technology!
