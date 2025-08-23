@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 
 ## 💻 My Coding Energy
 
-![Coding Animation](./coding-animation.gif)
+![Coding Animation](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
 
 ## 🤝 Let's Connect!
 
