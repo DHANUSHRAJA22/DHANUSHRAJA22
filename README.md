@@ -3,11 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate student and developer currently pursuing my education at VIT Vellore.
 
 ## 🎓 Education
-
 - **VIT Vellore** - Currently IN MY FINAL YEAR MTECH COMPUTER SCIENCE ENGINEERING
 
 ## 🔍 Current Interests
-
 - Machine Learning & AI
 - Web Development  
 - Business Research & Analytics
@@ -40,14 +38,14 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 - Statistical Analysis
 
 ## 🌱 What I'm Currently Learning
-
 - Advanced Machine Learning techniques
 - Cloud Computing (AWS, Azure)
 - DevOps practices
 - Advanced web frameworks
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
+<div align="right">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+</div>
 
 ## 🤝 Let's Connect!
 
