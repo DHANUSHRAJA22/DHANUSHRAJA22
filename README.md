@@ -1,20 +1,25 @@
 # Hi there, I'm DHANUSH RAJA 👋
 Welcome to my GitHub profile! I'm a passionate student and developer currently pursuing my education at VIT Vellore.
+
 ---
 
 ## 🎓 Education
-- **VIT Vellore** - Currently IN MY FINAL YEAR MTECH COMPUTER SCIENCE ENGINEERING
+- **VIT Vellore** – Final Year, M.Tech in Computer Science Engineering  
+
 ---
+
 ## 🔍 Current Interests
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-- Machine Learning & AI
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+- Machine Learning & AI  
 - Web Development  
-- Business Research & Analytics
-- Open Source Contributions
+- Business Research & Analytics  
+- Open Source Contributions  
+
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
+<p align="center">
   <img src="./python-logo.svg" alt="Python" width="60" height="60"/>
   <img src="./javascript-logo.svg" alt="JavaScript" width="60" height="60"/>
   <img src="./html-logo.svg" alt="HTML5" width="60" height="60"/>
@@ -25,28 +30,40 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
   <img src="./cpp-logo.svg" alt="C++" width="60" height="60"/>
   <img src="./sklearn-logo.svg" alt="Scikit-learn" width="60" height="60"/>
   <img src="./tensorflow-logo.svg" alt="TensorFlow" width="60" height="60"/>
-</div>
----
-### Machine Learning
-- Data Analysis & Visualization
-- Scikit-learn, Pandas, NumPy
-- TensorFlow/Keras basics
-- Statistical Analysis
----
-## 🌱 What I'm Currently Learning
-- Advanced Machine Learning techniques
-- Cloud Computing (AWS, Azure)
-- DevOps practices
-- Advanced web frameworks
----
-## 🤝 Let's Connect!
-I'm always interested in collaborating on interesting projects and learning from fellow developers.
+</p>
 
-📧 Email: rdhanush22raja@gmail.com  
-🌐 Portfolio: https://dhanush-visions.vercel.app/  
-💼 LinkedIn: https://www.linkedin.com/in/dhanush-raja-559a241aa/
+---
+
+### 🔹 Machine Learning
+- Data Analysis & Visualization  
+- Scikit-learn, Pandas, NumPy  
+- TensorFlow/Keras basics  
+- Statistical Analysis  
+
+---
+
+## 🌱 What I'm Currently Learning
+- Advanced Machine Learning techniques  
+- Cloud Computing (AWS, Azure)  
+- DevOps practices  
+- Advanced Web Frameworks  
+
+---
+
+## 🤝 Let's Connect!
+I'm always interested in collaborating on interesting projects and learning from fellow developers.  
+
+📧 **Email:** rdhanush22raja@gmail.com  
+🌐 **Portfolio:** [dhanush-visions.vercel.app](https://dhanush-visions.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/dhanush-raja-559a241aa](https://www.linkedin.com/in/dhanush-raja-559a241aa/)  
+
+---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
 
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about technology!
+---
+
+✨ Feel free to explore my repositories and don’t hesitate to reach out for collaboration or just a chat about technology!
