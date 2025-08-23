@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 - Business Research & Analytics
 - Open Source Contributions
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div align="center">
   <img src="./python-logo.svg" alt="Python" width="60" height="60"/>
@@ -26,14 +26,7 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
   <img src="./tensorflow-logo.svg" alt="TensorFlow" width="60" height="60"/>
 </div>
 
-## 💼 Skills & Technologies
 
-### Programming Languages
-- Python
-- JavaScript
-- Java
-- C/C++
-- SQL
 
 ### Web Development
 - Frontend: HTML, CSS, JavaScript, React
