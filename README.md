@@ -41,7 +41,11 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 I'm always interested in collaborating on interesting projects and learning from fellow developers.
 
 📧 **Email**: [rdhanush22raja@gmail.com]
+
+
 🌐 **Portfolio**: [https://dhanush-visions.vercel.app/]
+
+
 💼 **LinkedIn**: [https://www.linkedin.com/in/dhanush-raja-559a241aa/]
 
 ## 📊 GitHub Stats
