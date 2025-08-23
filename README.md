@@ -6,12 +6,7 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 - **VIT Vellore** - Currently IN MY FINAL YEAR MTECH COMPUTER SCIENCE ENGINEERING
 ---
 ## 🔍 Current Interests
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" height="200" style="width: auto;">
-  </picture>
-</div>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 - Machine Learning & AI
 - Web Development  
 - Business Research & Analytics
@@ -31,11 +26,6 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
   <img src="./sklearn-logo.svg" alt="Scikit-learn" width="60" height="60"/>
   <img src="./tensorflow-logo.svg" alt="TensorFlow" width="60" height="60"/>
 </div>
----
-### Web Development
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express.js
-- Database: MySQL, MongoDB
 ---
 ### Machine Learning
 - Data Analysis & Visualization
