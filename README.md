@@ -1,5 +1,4 @@
 # Hi there, I'm DHANUSH RAJA 👋
-
 Welcome to my GitHub profile! I'm a passionate student and developer currently pursuing my education at VIT Vellore.
 
 ## 🎓 Education
@@ -11,8 +10,7 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 - Business Research & Analytics
 - Open Source Contributions
 
-## 🛠️ Tech Stack 
-
+## 🛠️ Tech Stack
 <div align="center">
   <img src="./python-logo.svg" alt="Python" width="60" height="60"/>
   <img src="./javascript-logo.svg" alt="JavaScript" width="60" height="60"/>
@@ -25,8 +23,6 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
   <img src="./sklearn-logo.svg" alt="Scikit-learn" width="60" height="60"/>
   <img src="./tensorflow-logo.svg" alt="TensorFlow" width="60" height="60"/>
 </div>
-
-
 
 ### Web Development
 - Frontend: HTML, CSS, JavaScript, React
@@ -46,25 +42,18 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 - Advanced web frameworks
 
 ## 💻 My Coding Energy
-
-<div align="center">
-  <img src="./coding-animation.gif" alt="Coding Animation" width="400"/>
-</div>
+![Coding Animation](./coding-animation.gif)
 
 ## 🤝 Let's Connect!
-
 I'm always interested in collaborating on interesting projects and learning from fellow developers.
 
-📧 **Email**: [rdhanush22raja@gmail.com](mailto:rdhanush22raja@gmail.com)
+📧 Email: [rdhanush22raja@gmail.com](mailto:rdhanush22raja@gmail.com)
 
-🌐 **Portfolio**: [https://dhanush-visions.vercel.app/](https://dhanush-visions.vercel.app/)
+🌐 Portfolio: [https://dhanush-visions.vercel.app/](https://dhanush-visions.vercel.app/)
 
-💼 **LinkedIn**: [https://www.linkedin.com/in/dhanush-raja-559a241aa/](https://www.linkedin.com/in/dhanush-raja-559a241aa/)
+💼 LinkedIn: [https://www.linkedin.com/in/dhanush-raja-559a241aa/](https://www.linkedin.com/in/dhanush-raja-559a241aa/)
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=radical)
 
----
-
-*Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about technology!*
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about technology!
