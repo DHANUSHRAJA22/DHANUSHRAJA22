@@ -1,75 +1,73 @@
 # Hi there, I'm DHANUSH RAJA 👋
-Welcome to my GitHub profile! I'm a passionate student and developer currently pursuing my education at VIT Vellore.
 
----
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 🎓 Education
-- **VIT Vellore** – Final Year, M.Tech in Computer Science Engineering  
+### 🚀 About Me
+- 🔭 I'm passionate about **Machine Learning** and **Web Development**
+- 🌱 Currently diving deep into **Advanced ML techniques** and **Cloud Computing**
+- 💼 Building innovative projects that solve real-world problems
+- 🎯 Always eager to learn new technologies and collaborate on exciting projects
+- ⚡ Fun fact: I love turning complex data into meaningful insights!
 
----
+### 🛠️ Tech Stack
 
-## 🔍 Current Interests
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Data Science & ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🔭 What I'm Working On
+- 🤖 Advanced Machine Learning projects with real-world applications
+- ☁️ Exploring Cloud Computing platforms (AWS, Azure)
+- 🚀 Building full-stack web applications
+- 📊 Data visualization and analytics dashboards
+
+### 🌱 Currently Learning
+- Advanced Deep Learning architectures
+- DevOps practices and CI/CD pipelines
+- Microservices architecture
+- Advanced Web Frameworks and libraries
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-- Machine Learning & AI  
-- Web Development  
-- Business Research & Analytics  
-- Open Source Contributions  
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="./python-logo.svg" alt="Python" width="60" height="60"/>
-  <img src="./javascript-logo.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="./html-logo.svg" alt="HTML5" width="60" height="60"/>
-  <img src="./css-logo.svg" alt="CSS3" width="60" height="60"/>
-  <img src="./react-logo.svg" alt="React" width="60" height="60"/>
-</p>
-<p align="center">
-  <img src="./sql-logo.svg" alt="SQL" width="60" height="60"/>
-  <img src="./java-logo.svg" alt="Java" width="60" height="60"/>
-  <img src="./cpp-logo.svg" alt="C++" width="60" height="60"/>
-  <img src="./sklearn-logo.svg" alt="Scikit-learn" width="60" height="60"/>
-  <img src="./tensorflow-logo.svg" alt="TensorFlow" width="60" height="60"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHRAJA22&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-### 🔹 Machine Learning
-- Data Analysis & Visualization  
-- Scikit-learn, Pandas, NumPy  
-- TensorFlow/Keras basics  
-- Statistical Analysis  
-
----
-
-## 🌱 What I'm Currently Learning
-- Advanced Machine Learning techniques  
-- Cloud Computing (AWS, Azure)  
-- DevOps practices  
-- Advanced Web Frameworks  
-
----
-
-## 🤝 Let's Connect!
-I'm always interested in collaborating on interesting projects and learning from fellow developers.  
-
-📧 **Email:** rdhanush22raja@gmail.com  
-🌐 **Portfolio:** [dhanush-visions.vercel.app](https://dhanush-visions.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/dhanush-raja-559a241aa](https://www.linkedin.com/in/dhanush-raja-559a241aa/)  
-
----
-
-## 📊 GitHub Stats
+### 🤝 Let's Connect!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdhanush22raja@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dhanush-visions.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-raja-559a241aa/)
+
 </p>
 
 ---
 
-✨ Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about technology!
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/DHANUSHRAJA22">DHANUSHRAJA22</a></i>
+</p>
+
+✨ **Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about technology!**
