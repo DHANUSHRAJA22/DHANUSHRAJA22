@@ -1,4 +1,4 @@
-# Hi there, I'm DHANUSHRAJA22 👋
+# Hi there, I'm DHANUSH RAJA 👋
 
 Welcome to my GitHub profile! I'm a passionate student and developer currently pursuing my education at VIT Vellore.
 
