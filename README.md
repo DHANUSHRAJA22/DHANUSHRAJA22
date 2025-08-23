@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate student and developer currently pursuing my education at VIT Vellore.
 
 ## 🎓 Education
-- **VIT Vellore** - Currently pursuing my degree
+- **VIT Vellore** - Currently IN MY FINAL YEAR MTECH COMPUTER SCIENCE ENGINEERING
 
 ## 🔍 Current Interests
 - Machine Learning & AI
@@ -31,12 +31,6 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 - TensorFlow/Keras basics
 - Statistical Analysis
 
-### Business Research
-- Market Analysis
-- Data-driven Decision Making
-- Business Intelligence
-- Process Optimization
-
 ## 🌱 What I'm Currently Learning
 - Advanced Machine Learning techniques
 - Cloud Computing (AWS, Azure)
@@ -46,9 +40,9 @@ Welcome to my GitHub profile! I'm a passionate student and developer currently p
 ## 🤝 Let's Connect!
 I'm always interested in collaborating on interesting projects and learning from fellow developers.
 
-📧 **Email**: [Your Email Here]
-🌐 **Portfolio**: [Your Portfolio Link]
-💼 **LinkedIn**: [Your LinkedIn Profile]
+📧 **Email**: [rdhanush22raja@gmail.com]
+🌐 **Portfolio**: [https://dhanush-visions.vercel.app/]
+💼 **LinkedIn**: [https://www.linkedin.com/in/dhanush-raja-559a241aa/]
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=radical)
