@@ -44,16 +44,7 @@
 - Microservices architecture
 - Advanced Web Frameworks and libraries
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSHRAJA22&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
+  
 ### 🤝 Let's Connect!
 
 <p align="center">
@@ -64,10 +55,9 @@
 
 </p>
 
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/DHANUSHRAJA22">DHANUSHRAJA22</a></i>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSHRAJA22&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
-
-✨ **Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about technology!**
+---
