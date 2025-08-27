@@ -62,8 +62,9 @@
 </p>
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-❤️-brightgreen)
+
 ![GitHub followers](https://img.shields.io/github/followers/DHANUSHRAJA22?label=Follow&style=social)
+
 ![Profile views](https://img.shields.io/github/watchers/DHANUSHRAJA22/DHANUSHRAJA22?label=Profile%20Views&style=social)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+
 
